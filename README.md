@@ -1,3 +1,3 @@
 # learn-sagemaker
-# These code are the simplification for the Learn SageMaker on Packtpub.
+# These are the simplified code for the Learn SageMaker on Packtpub.
 
