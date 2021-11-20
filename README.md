@@ -1,3 +1,2 @@
-# Sagemaker
-# These are my simplified code from Packtpub.
+# These are my simplified code templates from Packtpub.
 
