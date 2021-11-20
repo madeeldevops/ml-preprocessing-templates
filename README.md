@@ -1,2 +1,2 @@
-# These are my simplified code templates from Packtpub.
+# These are my simplified code templates.
 
